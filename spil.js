@@ -1,6 +1,7 @@
 const canvas = document.getElementById('myCanvas');
 canvas.width = 600;
 canvas.height = 400;
+// adding comment
 
 let x = 20;
 const maxX = 250;
